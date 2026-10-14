@@ -4,7 +4,7 @@ Tienda web de ropa y accesorios, nuevos y de segunda mano (vintage), con pagos e
 
 ## Stack
 
-- **Backend:** Java 21, Spring Boot 3, Maven, PostgreSQL y Flyway
+- **Backend:** Java 25, Spring Boot 4.1, Maven, PostgreSQL y Flyway
 - **Frontend:** Next.js con TypeScript
 - **Pagos:** pasarela por definir; la arquitectura permitirá añadir varias
 
